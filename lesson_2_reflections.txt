@@ -10,13 +10,27 @@ It is an area "between" working directory and the repository. It gives more cont
 3.How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can always check what changes are done and added to staging area. Command 'git diff' compares files in working area and stagingea. Command 
+'git diff --staged' compares staging area and last commit. 
+
 4.What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches would help when you want to experiment with the main code, try something different. Making a branch is creating a parallel code with experimental features.
+
 5.How do the diagrams help you visualize the branch structure?
+
+Diagrams are really helpful to see the branch structure. Command 'git log --graph --oneline master-branch exp-branch' lets see logs of both branches.
 
 6.What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches together is a one branch of updated code. The representation of it in such way, that we could track the history of code changes better and see each commit parent code.
+
 7.What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+PROS:
+Faster, simplier than manually
+CONS:
+Do not always know what changes to choose and leave.
