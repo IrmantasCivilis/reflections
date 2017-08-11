@@ -6,7 +6,7 @@ I guess when working with other developers on the same project. For instance, sh
 2.Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+For having a control on what changes to pull and what don't. You do not always want to introduce a recent changes to the code. 
 
 3.Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
