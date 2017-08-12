@@ -11,7 +11,9 @@ For having a control on what changes to pull and what don't. You do not always w
 3.Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Clone is a copy of whole project. Clone is used to copy a project from GitHub to your computer.
+Fork is a clone of the whole project but only is used in GitHub enviroment.
+Branch is usually a part of the project.
 
 4.What is the benefit of having a copy of the last known state of the remote
 stored locally?
