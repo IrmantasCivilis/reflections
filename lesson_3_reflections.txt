@@ -23,7 +23,7 @@ Be aware of most recent changes and have up to date code.
 5.How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I would use email, Google Disc, skype etc. for collaboration. Perhaps communication would be easier, but sharing and modifying the code would be harder.
 
 6.When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
