@@ -28,4 +28,4 @@ I would use email, Google Disc, skype etc. for collaboration. Perhaps communicat
 6.When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Usually you make changes in a separate branch when you trying new features or alternative version. Other case would be collaboration with others. First you are making changes to the branch you are working on, and when ask your coworkers to check and approve the changes. And then you could change master branch. THe benefit of this approach is double checking, communication, do not risking with working code.  
